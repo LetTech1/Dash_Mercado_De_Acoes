@@ -57,7 +57,7 @@ Os KPIs utilizados neste projeto estão documentados separadamente para detalhar
 - Fórmulas em DAX  
 - Interpretação no contexto de mercado de ações  
 
-📑 [Explicação detalhada dos KPIs](docs/KPIs_Dashboard.pdf)   
+📑 [Explicação detalhada dos KPIs](docs/kpis_explanation.pdf)   
 
 ---
 
